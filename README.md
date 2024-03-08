@@ -42,13 +42,18 @@ The dataset includes the following variables:
 ### Visualizations
 
 1. Churn Distribution
-  ![Churn Distribution](churn_distribution.png)
+<img width="407" alt="image" src="https://github.com/moschine/phase-3-project/assets/144592615/524cfa74-3d4f-467d-a373-8039a4c82341">
+
+
 
 2. Area Code Analysis
-  ![Area Code Analysis](area_code_analysis.png)
+<img width="472" alt="image" src="https://github.com/moschine/phase-3-project/assets/144592615/38eb29cd-d2d1-47fa-907d-0229c661947b">
+
+
 
 3. Correlation Heatmap
-  ![Correlation Heatmap](correlation_heatmap.png)
+<img width="377" alt="image" src="https://github.com/moschine/phase-3-project/assets/144592615/b6291e2f-96d9-406b-82d8-00061eab8416">
+
 
 ## Summary
 The comprehensive analysis conducted by the project team serves as a guide for SyriaTel to address customer churn challenges. The developed models not only identify key variables influencing customer churn but also provide a robust framework for predictive modeling.
